@@ -6,9 +6,9 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.How;
 import org.openqa.selenium.support.ui.Select;
 
-public class UkPage extends BaseClass {
+public class SignInPage extends BaseClass {
 
-	public UkPage(WebDriver driver)
+	public SignInPage(WebDriver driver)
 	{
 		super(driver);
 	}
